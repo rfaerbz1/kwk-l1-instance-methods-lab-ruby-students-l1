@@ -13,3 +13,4 @@ class Dog
 end
 
 thing = Dog.new 
+puts thing.bark
