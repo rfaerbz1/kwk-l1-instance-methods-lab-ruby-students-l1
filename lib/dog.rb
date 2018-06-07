@@ -12,4 +12,4 @@ class Dog
   end
 end
 
-puts Dog.bark
+thing = Dog.new 
