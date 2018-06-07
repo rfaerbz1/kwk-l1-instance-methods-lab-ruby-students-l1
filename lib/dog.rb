@@ -14,3 +14,4 @@ end
 
 thing = Dog.new 
 puts thing.bark
+puts thing.sit
