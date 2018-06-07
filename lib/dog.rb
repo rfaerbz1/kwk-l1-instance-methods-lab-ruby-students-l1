@@ -7,7 +7,7 @@ class Dog
     puts "Woof!"
   end 
   
-  def 'sit' 
+  def '#sit' 
     puts "The dog is sitting"
   end
 end
