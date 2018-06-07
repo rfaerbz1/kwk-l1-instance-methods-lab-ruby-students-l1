@@ -3,6 +3,10 @@
 # dog.rb
 class Dog 
   
+  initialize(bark)
+    @bark = bark
+  end
+  
   def bark
     puts "Woof!"
   end 
@@ -11,5 +15,3 @@ class Dog
     puts "The dog is sitting"
   end
 end
-
-Dog.bark
